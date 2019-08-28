@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>image/74000492_p0.png</file>
+        <file>image/close.png</file>
+        <file>image/food.png</file>
+        <file>image/rank.png</file>
+        <file>image/start.png</file>
+        <file>image/bodyleft.png</file>
+        <file>image/bodyup.png</file>
+        <file>image/downleft.png</file>
+        <file>image/downright.png</file>
+        <file>image/headdown1.png</file>
+        <file>image/headdown2.png</file>
+        <file>image/headdown3.png</file>
+        <file>image/headdown4.png</file>
+        <file>image/headleft1.png</file>
+        <file>image/headleft2.png</file>
+        <file>image/headleft3.png</file>
+        <file>image/headleft4.png</file>
+        <file>image/headright1.png</file>
+        <file>image/headright2.png</file>
+        <file>image/headright3.png</file>
+        <file>image/headright4.png</file>
+        <file>image/headup1.png</file>
+        <file>image/headup2.png</file>
+        <file>image/headup3.png</file>
+        <file>image/headup4.png</file>
+        <file>image/upleft.png</file>
+        <file>image/upright.png</file>
+        <file>image/headdownleft.png</file>
+        <file>image/headdownright.png</file>
+        <file>image/headleftdown.png</file>
+        <file>image/headleftup.png</file>
+        <file>image/headrightdown.png</file>
+        <file>image/headrightup.png</file>
+        <file>image/headupleft.png</file>
+        <file>image/headupright.png</file>
+    </qresource>
+</RCC>
